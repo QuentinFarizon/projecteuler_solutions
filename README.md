@@ -1,4 +1,4 @@
-### Some solutions of the Project Euler challenges
+## Solutions to some of the Project Euler challenges
 
 This repository contains some solutions I implemented to various Project Euler challenges.
 
